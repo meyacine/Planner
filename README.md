@@ -5,5 +5,4 @@ Planner static HTML part
 
 Planner was created by and is maintained by :
 
-**Maamar Yacine MEDDAH**
-**Kacem SALHI**
+**Maamar Yacine MEDDAH** and **Kacem SALHI**
